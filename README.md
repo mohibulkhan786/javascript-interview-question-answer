@@ -1,10 +1,10 @@
-- JavaScript is the programming language of the web.
-
-- It can update and change both HTML and CSS.
-
-- It can calculate, manipulate and validate data.
 
 # JavaScript-100-objective-based-questions
+
+- JavaScript is the programming language of the web.
+- It can update and change both HTML and CSS.
+- It can calculate, manipulate and validate data.
+
 
 
 **1. Can we connect JavaScript Directly with Actual Database. can you give reason of it ?**
