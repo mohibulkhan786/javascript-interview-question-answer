@@ -70,14 +70,14 @@ Answer: b) "object"
 
 **5. How to make immutable object in JavaScript**
 ```js
-a) final var ={name:'Anil'}
-b) const user={name:'Anil'}
-c) var  user={name:'Anil'}; Object.freeze(user);
+a) final var ={name:'Mkhan'}
+b) const user={name:'Mkhan'}
+c) var  user={name:'Mkhan'}; Object.freeze(user);
 c) There is no way to make immutable object
 ```
 <details>
 	<summary><b>View Answer</b></summary><ul>
-Answer: c) var  user={name:'Anil'}; Object.freeze(obj);
+Answer: c) var  user={name:'Mkhan'}; Object.freeze(obj);
 </ul>
 </details>
 
